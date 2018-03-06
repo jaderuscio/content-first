@@ -1,4 +1,4 @@
-Haiku
+*Haiku*
 
 ![Content First](https://github.com/jaderuscio/web-authoring-1-sp-18/blob/spring-2018/lessons/02-content-first.md)
 
