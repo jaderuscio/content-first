@@ -1,3 +1,16 @@
 .wrapper {
  max-width: 960px;
- font-family:
+ font: georgia; 
+ font-size: 100%; 
+ line-height: .10em;
+ }
+body {
+}
+ .textline1 {
+ }
+ .textline2 {
+ }
+ .textline3 {
+ }
+ 
+ 
