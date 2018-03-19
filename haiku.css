@@ -1,16 +1,35 @@
-.wrapper {
- max-width: 960px;
- font: georgia; 
- font-size: 100%; 
- line-height: .10em;
- }
 body {
-}
- .textline1 {
+ margin-top:200px;
+ max-width: 960px;
+ font-family: georgia; 
+ text-align: center; 
+ line-height: 1.2;
+ background-color: #cc9966;
  }
- .textline2 {
+ 
+ h1 {
+ max-width: 960px;
+ font-family: georgia; 
+ max-width: 960px;
+ font-size: 3.4em; 
+ margin-top: 45px;
+ margin-bottom: 60px;
  }
- .textline3 {
+h2 {
+ max-width: 960px;
+ font-family: georgia; 
+ font-size: 3.4em;
+ line-height:1.2;
+ margin-top: 45px; 
+ margin-bottom: 50px;
+ }
+ h3 {
+ max-width: 960px;
+ font-size: 3.4em;
+ text-align: center;
+ line-height: 1.2;
+ margin-top: 45px; 
+ margin-bottom: 50px;
  }
  
  
