@@ -7,6 +7,7 @@ By: Jade Ruscio
 
 ---------------------
 
+responsive design 
 
 ### 
 
