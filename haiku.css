@@ -7,14 +7,16 @@ body {
  background-color: #cc9966;
  }
  
-.headline {
-margin-top:200px;
+p {
+ body {
+ margin-top:200px;
  max-width: 960px;
  font-family: georgia; 
- font-size: 6.4em;
  text-align: center; 
  line-height: 1.2;
-}
+ background-color: #cc9966;
+ }
+
 
 .name { 
 margin-top:200px;
