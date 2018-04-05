@@ -1,15 +1,78 @@
-
-.wrapper {
- text-align: center;
- max-width: 960px;
- margin-left:auto;
- margin-right:auto;
-  }
 body {
+ margin-right:auto;
  margin-left:auto;
  max-width: 960px;
+ text-align: center;
  font-family: georgia; 
- font-size: 4.5em;
- text-align: center; 
+ font-size: 1.4em; 
+ line-height: 1.2;
+ background-color: #d3d3d3;
+ }
+
+h1 {
+ margin-right:auto;
+ margin-left:auto;
+ max-width: 660px;
+ text-align: center;
+ font-family: georgia; 
+ font-size: 5.5em; 
  line-height: 1.2;
  }
+ 
+.navigation {
+text-align: center;
+padding: 17px 0px;
+margin-top: 30px;
+}
+ 
+ hr {
+  border:none;
+  border-top:1px solid;/* or bottom */
+  margin:2em -10%; 
+  }
+
+body {text-align:center;}
+
+.fontinfo {
+margin-right:auto;
+ margin-left:auto;
+ max-width: 900px;
+ text-align: left;
+ font-family: georgia; 
+ font-size: 1.3em; 
+ line-height: 1.2;
+ }
+ hr {
+  border:none;
+  border-top:1px solid;/* or bottom */
+  margin:2em -10%; 
+  }
+
+.letters {
+ margin-right:auto;
+ margin-left:auto;
+ max-width: 660px;
+ text-align: center;
+ font-family: georgia; 
+ font-size: 4.5em; 
+ line-height: 1.2;
+  }
+ 
+ .styles {
+ margin-right:auto;
+ margin-left:auto;
+ max-width: 660px;
+ text-align: center;
+ font-family: georgia; 
+ font-size: 2.5em; 
+ line-height: 1.2;
+ }
+ 
+
+@media only screen and (max-width: 500px) {
+    body {
+        background-color: lightblue;
+        line-height: 1;
+        font-size: .5em;
+    }
+}
