@@ -1,6 +1,8 @@
+
 body {
  margin-right:auto;
  margin-left:auto;
+ padding:0 50px;
  max-width: 960px;
  text-align: center;
  font-family: georgia; 
@@ -18,16 +20,23 @@ h1 {
  font-size: 5.5em; 
  line-height: 1.2;
  }
- 
+a { 
+ font-family: serif;
+ color: #000000;
+ text-decoration: none;
+}
+a:hover { 
+color: #00ff33;
+}
 .navigation {
 text-align: center;
 padding: 17px 0px;
 margin-top: 30px;
 }
  
- hr {
+  hr {
   border:none;
-  border-top:1px solid;/* or bottom */
+  border-top:1px solid;
   margin:2em -10%; 
   }
 
@@ -44,7 +53,7 @@ margin-right:auto;
  }
  hr {
   border:none;
-  border-top:1px solid;/* or bottom */
+  border-top:1px solid;
   margin:2em -10%; 
   }
 
